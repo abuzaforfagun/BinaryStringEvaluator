@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryStringEvaluator", "BinaryStringEvaluator\BinaryStringEvaluator.csproj", "{4ADCE954-4447-45FD-9173-4D071E015B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryStringEvaluator.Tests", "BinaryStringEvaluator.Tests\BinaryStringEvaluator.Tests.csproj", "{F1499FFB-FDC8-4E55-ABE9-26CDC4713411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADCE954-4447-45FD-9173-4D071E015B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADCE954-4447-45FD-9173-4D071E015B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADCE954-4447-45FD-9173-4D071E015B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADCE954-4447-45FD-9173-4D071E015B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1499FFB-FDC8-4E55-ABE9-26CDC4713411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1499FFB-FDC8-4E55-ABE9-26CDC4713411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1499FFB-FDC8-4E55-ABE9-26CDC4713411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1499FFB-FDC8-4E55-ABE9-26CDC4713411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A40A21B-882C-4AF2-A790-3C2E001BB1B8}
+	EndGlobalSection
+EndGlobal
